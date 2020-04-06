@@ -1,0 +1,1 @@
+start mvn clean source:jar jar:jar deploy -Dmaven.test.skip=true -DrepositoryId=xuenan
