@@ -22,7 +22,7 @@
 		<poi-ooxml.version>3.15</poi-ooxml.version>
 		<okhttp.version>4.3.1</okhttp.version>
 		<commons-lang3.version>3.3.2</commons-lang3.version>
-		<commons-io.version>2.4</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<kryo.version>4.0.0</kryo.version>
 		<kryo-serializers.version>0.41</kryo-serializers.version>
 		<fst.version>2.57</fst.version>
